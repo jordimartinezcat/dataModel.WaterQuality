@@ -121,6 +121,7 @@ WaterQualityObserved:
       minimum: 0
       type: number
       x-ngsi:
+        model: https://schema.org/Number
         type: Property
     Ni:
       description: Nickel. Concentration of Nickel

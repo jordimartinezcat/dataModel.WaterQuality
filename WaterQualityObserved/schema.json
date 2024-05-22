@@ -127,7 +127,7 @@
                 "NO3": {
                     "type": "number",
                     "minimum": 0,
-                    "description": "Property. Concentration of nitrates"
+                    "description": "Property. Model:'https://schema.org/Number'. Concentration of nitrates"
                 },
                 "PO4": {
                     "type": "number",
